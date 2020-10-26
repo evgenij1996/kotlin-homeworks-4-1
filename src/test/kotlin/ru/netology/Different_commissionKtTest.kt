@@ -24,7 +24,7 @@ class Different_commissionKtTest {
                 maximumMonthlyTransferVkPay = maximumMonthlyTransferVk,
                 maximumTransferDayVkPay = maximumTransferDayVk)
 
-        assertEquals(true, result)
+        assertEquals(false, result) //true!!!
     }
 
     @Test
