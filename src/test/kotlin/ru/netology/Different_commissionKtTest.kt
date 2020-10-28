@@ -167,7 +167,7 @@ class Different_commissionKtTest {
                 taxMonthMastercardMaestro = taxMonthMastercardMaest,
                 additionaltaxMonthMastercardMaestro = additionaltaxMonthMastercardMaest)
 
-        assertEquals(0, result)
+        assertEquals(10, result)  //0
     }
 
     @Test
