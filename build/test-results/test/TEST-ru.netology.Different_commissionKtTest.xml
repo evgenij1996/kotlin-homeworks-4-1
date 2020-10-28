@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ru.netology.Different_commissionKtTest" tests="9" skipped="0" failures="0" errors="0" timestamp="2020-10-26T18:40:43" hostname="LAPTOP-9OKQTBHH" time="0.035">
+  <properties/>
+  <testcase name="spotTaxOnCardAccount_Viza" classname="ru.netology.Different_commissionKtTest" time="0.007"/>
+  <testcase name="spotNotCardAccountType_false" classname="ru.netology.Different_commissionKtTest" time="0.003"/>
+  <testcase name="spotTaxOnCardAccount_VkPay" classname="ru.netology.Different_commissionKtTest" time="0.001"/>
+  <testcase name="spotCardType_true" classname="ru.netology.Different_commissionKtTest" time="0.001"/>
+  <testcase name="chekLimitMaxTransferCard" classname="ru.netology.Different_commissionKtTest" time="0.0"/>
+  <testcase name="spotTaxOnCardAccount_Mastercard" classname="ru.netology.Different_commissionKtTest" time="0.002"/>
+  <testcase name="spotAccountType_true" classname="ru.netology.Different_commissionKtTest" time="0.002"/>
+  <testcase name="chekLimitMaxTransferAccount" classname="ru.netology.Different_commissionKtTest" time="0.001"/>
+  <testcase name="calculationFinalTransfersSum" classname="ru.netology.Different_commissionKtTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
